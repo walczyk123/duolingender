@@ -12,8 +12,11 @@
   </head>
 
   <body>
-    <main class="container mx-auto mt-28 px-5 flex">
-      <%= yield %>
-    </main>
+  <%= render "shared/navbar" %>
+  <main class="flex-grow flex-shrink-0 px-4 pb-12 mx-auto w-full max-w-7xl sm:px-6 lg:px-8">
+    <%#= render "shared/notices", notice: notice, alert: alert %>
+
+    <%= yield %>
+  </main>
   </body>
 </html>
