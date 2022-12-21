@@ -1,24 +1,5 @@
-# README
+## Duolingender
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Duolingo extender
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Duolingender is a rails app made for education, exploring the API capabilities of the popular Duolingo languages learning app, and possibly making a cool representation of the collected data.
